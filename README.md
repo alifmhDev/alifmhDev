@@ -34,3 +34,14 @@ Beberapa hal yang sedang atau pernah saya kerjakan:
 > “Berbagi bukan hanya tentang hasil akhir, tapi perjalanan membangun itu sendiri.” 🚀
 
 Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau kamu suka! 😄
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-contributors?repo_id=41986369&limit=200" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=41986369&limit=200&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Contributors of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/compose-contributors/thumbnail.png?repo_id=41986369&limit=200&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
