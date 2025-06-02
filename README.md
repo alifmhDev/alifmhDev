@@ -31,14 +31,6 @@ Beberapa hal yang sedang atau pernah saya kerjakan:
 
 ---
 
-### 📫 Kontak Saya
-
-- Instagram: [@alifmh.dev](https://instagram.com/alifmh.dev)
-- LinkedIn: [linkedin.com/in/alifmh](https://linkedin.com/in/alifmh)
-- Email: `alifmhdev[at]gmail.com`
-
----
-
 > “Berbagi bukan hanya tentang hasil akhir, tapi perjalanan membangun itu sendiri.” 🚀
 
 Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau kamu suka! 😄
