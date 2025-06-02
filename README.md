@@ -1,15 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hello Guys! 👋</h1>
 
+<p align="center">
+  <b>Saya Tech Enthusiast 👨‍💻 | Nama saya Alif</b><br>
+  Welcome to my GitHub! 👁️
+</p>
 
-**alifmhDev/alifmhDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Halo! Saya **Alif**, seorang penggemar teknologi yang suka ngulik hal-hal baru di dunia software development, AI, dan open source.  
+Saya percaya bahwa belajar adalah proses tanpa akhir, dan GitHub adalah tempat saya membangun, bereksperimen, dan berbagi karya.
+
+---
+
+### 🚀 Teknologi yang Saya Suka:
+- 💻 JavaScript, Python, Go
+- ⚙️ Node.js, Express, Next.js
+- 🧠 AI/ML Enthusiast (OpenAI, LangChain, LLMs)
+- 📦 API, Automation, dan Workflow Tools (n8n, Zapier)
+- 🌐 Web Dev & Cloud (Firebase, Vercel, Docker)
+
+---
+
+### 🛠 Proyek Menarik
+Beberapa hal yang sedang atau pernah saya kerjakan:
+- 🔧 Automasi Chatbot + AI dengan n8n
+- 📊 Dashboards interaktif dengan Next.js & API eksternal
+- 🤖 Integrasi AI untuk task automation
+
+---
+
+### 📫 Kontak Saya
+
+- Instagram: [@alifmh.dev](https://instagram.com/alifmh.dev)
+- LinkedIn: [linkedin.com/in/alifmh](https://linkedin.com/in/alifmh)
+- Email: `alifmhdev[at]gmail.com`
+
+---
+
+> “Berbagi bukan hanya tentang hasil akhir, tapi perjalanan membangun itu sendiri.” 🚀
+
+Terima kasih sudah mampir! Jangan lupa ⭐ repo kalau kamu suka! 😄
